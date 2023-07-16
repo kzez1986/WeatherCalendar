@@ -1,0 +1,16 @@
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\bin\Debug\Kalendarz Pogody.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\bin\Debug\Kalendarz Pogody.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz_Pogody.Properties.Resources.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz Pogody.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz Pogody.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz Pogody.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz_Pogody.Kalendarz.resources
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\bin\Debug\Kalendarz Pogody.exe
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\bin\Debug\Kalendarz Pogody.pdb
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz_Pogody.Kalendarz.resources
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz_Pogody.Properties.Resources.resources
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz Pogody.csproj.GenerateResource.Cache
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz Pogody.exe
+C:\Users\Alicja\Documents\Visual Studio 2008\Projects\Kalendarz Pogody\Kalendarz Pogody\obj\Debug\Kalendarz Pogody.pdb
